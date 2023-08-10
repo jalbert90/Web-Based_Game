@@ -1,0 +1,14 @@
+{
+  "name": "response_b",
+  "version": "0.0.0",
+  "description": "Response_B",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
